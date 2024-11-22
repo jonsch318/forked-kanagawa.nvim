@@ -222,10 +222,10 @@ return {
                 pmenu      = {
                     fg       = palette.fujiWhite,
                     fg_sel   = "none",
-                    bg       = palette.waveBlue1,
-                    bg_sel   = palette.waveBlue2,
-                    bg_thumb = palette.waveBlue2,
-                    bg_sbar  = palette.waveBlue1,
+                    bg       = palette.DragonBlack3,
+                    bg_sel   = palette.DragonBlack4,
+                    bg_thumb = palette.DragonBlack4,
+                    bg_sbar  = palette.DragonBlack3,
                 },
 
                 float      = {
@@ -325,10 +325,10 @@ return {
                 pmenu      = {
                     fg       = palette.lotusInk2,
                     fg_sel   = "none", -- This is important to make highlights pass-through
-                    bg       = palette.lotusBlue1,
-                    bg_sel   = palette.lotusBlue3,
-                    bg_sbar  = palette.lotusBlue1,
-                    bg_thumb = palette.lotusBlue2,
+                    bg       = palette.lotusWhite3,
+                    bg_sel   = palette.lotusWhite4,
+                    bg_sbar  = palette.lotusWhite4,
+                    bg_thumb = palette.lotusWhite3,
                 },
                 float      = {
                     fg        = palette.lotusInk2,

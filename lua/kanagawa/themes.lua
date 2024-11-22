@@ -325,10 +325,10 @@ return {
                 pmenu      = {
                     fg       = palette.lotusInk2,
                     fg_sel   = "none", -- This is important to make highlights pass-through
-                    bg       = palette.lotusWhite3,
-                    bg_sel   = palette.lotusWhite4,
-                    bg_sbar  = palette.lotusWhite4,
-                    bg_thumb = palette.lotusWhite3,
+                    bg       = palette.lotusWhite4,
+                    bg_sel   = palette.lotusWhite5,
+                    bg_sbar  = palette.lotusWhite5,
+                    bg_thumb = palette.lotusWhite4,
                 },
                 float      = {
                     fg        = palette.lotusInk2,

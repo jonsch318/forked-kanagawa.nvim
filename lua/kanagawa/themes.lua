@@ -114,10 +114,10 @@ return {
                 pmenu      = {
                     fg       = palette.fujiWhite,
                     fg_sel   = "none", -- This is important to make highlights pass-through
-                    bg       = palette.waveBlue1,
-                    bg_sel   = palette.waveBlue2,
-                    bg_sbar  = palette.waveBlue1,
-                    bg_thumb = palette.waveBlue2,
+                    bg       = palette.sumiInk3,
+                    bg_sel   = palette.sumiInk4,
+                    bg_sbar  = palette.sumiInk4,
+                    bg_thumb = palette.sumiInk5,
                 },
                 float      = {
                     fg        = palette.oldWhite,
